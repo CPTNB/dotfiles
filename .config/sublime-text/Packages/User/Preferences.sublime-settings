@@ -1,0 +1,28 @@
+{
+	"theme": "Soda Dark 3.sublime-theme",
+	"font_size": 16,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"font_face": "Fira Code",
+    "highlight_line": true,
+    "caret_extra_bottom": 3,
+    "caret_extra_top": 3,
+    "hide_tab_scrolling_buttons": true,
+    "fade_fold-buttons": false,
+	"color_scheme": "Packages/Agila Theme/Agila Monokai Extended.tmTheme",
+	"show_definitions": true,
+	"tab_completion": true,
+	"auto_complete": false,
+	"drag_text": false,
+	"hide_new_tab_button": true,
+	"mini_diff": false,
+	"tab_size": 2,
+	"show_git_status_in_status_bar": false,
+	"translate_tabs_to_spaces": true,
+	"draw_minimap_border": true,
+	"always_show_minimap_viewport": true,
+	"block_caret": true,
+	"show_git_status": false,
+}
